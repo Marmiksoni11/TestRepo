@@ -4,3 +4,4 @@ let hello3 = 'marmik3';
 const num = 23;
 const num2 = 233;
  console.log("Removed rules for all")
+ console.log("added rules for all")
