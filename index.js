@@ -6,4 +6,5 @@ const num2 = 233;
 
 console.log("Hello")
 console.log(num)
+console.log(num2)
 
