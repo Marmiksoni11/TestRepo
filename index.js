@@ -6,3 +6,7 @@ const num2 = 233;
 console.log("Removed rules for all")
 console.log("Removed rules for id same marmiksoni11")
 
+console.log("hello");
+console.log("hello");
+console.log("hello");
+console.log("hello");
