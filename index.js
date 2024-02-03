@@ -4,3 +4,7 @@ let hello3 = 'marmik3';
 const num = 23;
 const num2 = 233;
 
+console.log("hello");
+console.log("hello");
+console.log("hello");
+console.log("hello");
