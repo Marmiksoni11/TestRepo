@@ -10,3 +10,14 @@ console.log("dsdsdsdsdsd");
 console.log("sds");
 console.log("hedsdsddsdllo");
 console.log("hedsdsllo");
+
+console.log("123");
+console.log("234");
+console.log("345");
+
+function sum(num) {
+    let fun = num+num;
+    return fun
+}
+
+sum();
